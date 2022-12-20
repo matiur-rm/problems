@@ -1,0 +1,15 @@
+{
+    "name": "matiur-rm/problems",
+    "description": "differents problem solve using php language",
+    "keywords": [
+         "programming", "php", "data structure & algorithms", "array", "linked list", "interview questions"
+    ],
+    "require": {
+        "php": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "problems\\": "src/"
+        }
+    }
+}
